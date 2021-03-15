@@ -20,10 +20,10 @@ ___
 
 ```bash
 #clonar o repositório
-$ git clone https://github.com/luanadepaulla/testeMarvel
+$ git clone https://github.com/luanadepaulla/testemarvel
 
 #entrar no diretório
-$ cd testeMarvel
+$ cd testemarvel
 
 #instalar as dependênicas
 $ yarn install
